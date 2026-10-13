@@ -1,0 +1,6 @@
+site_name: My C Library Docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+
